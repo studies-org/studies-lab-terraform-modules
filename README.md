@@ -123,6 +123,7 @@ Pontos principais de validação:
 - outputs `vpc_id`, `subnet_pub_id`, `igw_id` e `route_table_pub_id` preenchidos;
 - `terraform destroy` removendo tudo ao final.
 
-## Autor
+## Autores
 
-**William Alves Coelho** · [@willtechdev](https://github.com/willtechdev)
+- **William Alves Coelho** · [@willtechdev](https://github.com/willtechdev)
+- **Eduardo Castro** · [@duhcastro222-rgb](https://github.com/duhcastro222-rgb)
